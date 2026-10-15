@@ -18,7 +18,7 @@ Una cuenta de LeoTun tiene seis métodos de conexión: red Privada (Tailscale), 
 - Banda ancha que se corta a menudo, wifi con poca señal: Proxy Web. Funciona petición a petición, sin una conexión permanente, así que, por diseño, no hay conexión que se pueda cortar.
 - Banda ancha de urbanizaciones antiguas, datos móviles, mucha pérdida de paquetes: Hiddify. Su protocolo está diseñado para resistir la pérdida de paquetes y da la mejor velocidad en ese tipo de redes.
 - El ordenador ya está conectado a la VPN de la empresa: Proxy Web. Dos VPN de todo el equipo funcionando a la vez se pelean por la configuración de red; el proxy web solo se encarga del navegador, así que no se estorban.
-- China Mobile, Great Wall y otras bandas anchas, o enlaces internacionales que siempre van inestables: cualquier método, eligiendo un punto de entrada de la región de China. El cliente solo se conecta a una dirección dentro de China y nosotros nos encargamos del tramo internacional, así que no le afectan las interferencias transfronterizas.
+- China Mobile, Great Wall y otras bandas anchas, o enlaces internacionales que siempre van inestables: cualquier método, eligiendo un punto de entrada de la región de China. Suele ser la opción más estable en estas redes.
 
 ## Según el objetivo: qué quieres hacer
 
