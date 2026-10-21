@@ -48,4 +48,4 @@ Hiddify: vuelve a la página de Hiddify de este sitio y escanea el código, o to
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/ios-app-store?utm_source=github&utm_content=client-06
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin

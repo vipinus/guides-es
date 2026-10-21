@@ -39,15 +39,15 @@ Conecta por cable la tele y el ordenador de sobremesa siempre que puedas. El wif
 
 ## Cómo saberlo antes de comprar
 
-Regístrate y usa la prueba gratuita de 24 horas, sin tarjeta de crédito. Conéctate a la hora del día en que más lo usas, por ejemplo por la noche, y mira un vídeo de YouTube en HD. Lo que ves en un móvil o un portátil se parece mucho a lo que te dará el router. Decide lo del router después.
+Regístrate y usa la prueba gratuita de 4 horas, sin tarjeta de crédito. Conéctate a la hora del día en que más lo usas, por ejemplo por la noche, y mira un vídeo de YouTube en HD. Lo que ves en un móvil o un portátil se parece mucho a lo que te dará el router. Decide lo del router después.
 
 ## Preguntas frecuentes
 
-**¿Por qué no me dicen sin más cuántos megas?** Porque la cifra es distinta para cada persona y cada hora. Garantizamos que YouTube se reproduce con fluidez incluso en la hora punta de la noche, siempre que tu banda ancha sea buena: China Unicom en el norte o China Telecom en el sur. La excepción es la banda ancha compartida de urbanización (la que reparte un único acceso entre todo un complejo residencial). Usar la prueba gratuita de 24 horas y probarlo una vez tú mismo es la medición más fiable.
+**¿Por qué no me dicen sin más cuántos megas?** Porque la cifra es distinta para cada persona y cada hora. Garantizamos que YouTube se reproduce con fluidez incluso en la hora punta de la noche, siempre que tu banda ancha sea buena: China Unicom en el norte o China Telecom en el sur. La excepción es la banda ancha compartida de urbanización (la que reparte un único acceso entre todo un complejo residencial). Usar la prueba gratuita de 4 horas y probarlo una vez tú mismo es la medición más fiable.
 
 **¿El test de velocidad da una cifra baja, pero el vídeo va bien?** Es normal. Los servidores de los test de velocidad tienen sus propios momentos de saturación y de calma, y dos pruebas con un minuto de diferencia pueden variar al doble. Juzga por lo que de verdad quieres hacer.
 
 **¿Un router más caro lo hará más rápido?** Solo si el cuello de botella es el router, por ejemplo un modelo mini con una línea rápida. Cuando el cuello de botella es el tramo internacional, un router nuevo no cambia nada y otra región sí.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin

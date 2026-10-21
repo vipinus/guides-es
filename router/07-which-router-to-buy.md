@@ -10,7 +10,7 @@ El router resuelve el problema de «demasiados dispositivos, y algunos no admite
 |---|---|
 | Tienes en casa dispositivos que no admiten un cliente, como un TV box, una consola, un Apple TV o un altavoz inteligente | Solo tienes un móvil y un ordenador y sobre todo viajas por trabajo: instalar un cliente es más ligero |
 | La familia es numerosa y no quieres enseñar a cada uno con su dispositivo | Vives en una residencia o en un piso compartido y no controlas la red |
-| Tienes dispositivos que deben estar conectados las 24 horas (NAS, cámaras que suben grabaciones) | Tu router principal es un módem bloqueado por el operador y no puedes conectar un segundo router: un router de viaje es una solución intermedia |
+| Tienes dispositivos que deben estar conectados las 4 horas (NAS, cámaras que suben grabaciones) | Tu router principal es un módem bloqueado por el operador y no puedes conectar un segundo router: un router de viaje es una solución intermedia |
 | Una oficina en China o una familia entera que accede de forma estable a servicios extranjeros desde China, con enrutamiento dividido en el router y sin que los dispositivos noten nada | |
 
 ## Instalar el firmware o comprar un equipo ya preparado
@@ -68,4 +68,4 @@ Cuándo no elegirlo: para una casa grande, muchos dispositivos o banda ancha de 
 **¿El firmware tiene una puerta trasera?** Se compila a partir de OpenWrt, añadiendo solo el componente que se conecta a la VPN y las reglas de enrutamiento dividido; la VPN solo registra la duración de la conexión y el tráfico total para la facturación, y no registra lo que visitas.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin

@@ -26,7 +26,7 @@ El problema no es que sea «gratis», sino la estructura de costes. El ancho de 
 
 Las extensiones de navegador gratuitas «hacia China» tienen otro punto ciego: solo pasan por el proxy las peticiones web del navegador, y ni el reproductor de vídeo, ni las apps, ni el DNS del sistema pasan por ellas; por eso es tan habitual que «la página abre pero el vídeo no se reproduce».
 
-Para consultar algo de vez en cuando, lo gratuito basta. Para seguir series, escuchar música y usar la banca en línea, el tiempo que te ahorra una línea de pago estable vale mucho más que la suscripción. Pide primero la prueba de 24 horas, pruébala una vez en la hora punta de la noche y luego decide.
+Para consultar algo de vez en cuando, lo gratuito basta. Para seguir series, escuchar música y usar la banca en línea, el tiempo que te ahorra una línea de pago estable vale mucho más que la suscripción. Pide primero la prueba de 4 horas, pruébala una vez en la hora punta de la noche y luego decide.
 
 ## Cómo debe configurarlo cada uno: estudiantes en el extranjero, viajeros y familias
 
@@ -53,4 +53,4 @@ Para consultar algo de vez en cuando, lo gratuito basta. Para seguir series, esc
 **¿Puedo usar Clash?** Sí. LeoTun ofrece una suscripción sing-box, una suscripción Clash y un enlace para compartir de hysteria2. Con Clash Meta, Clash Verge, FlClash, Stash y similares, haz clic en el botón «Suscripción Clash» y pega la URL en la lista de suscripciones del cliente; no hace falta ningún conversor de suscripciones, y no uses el enlace para compartir. El Clash original y Clash for Windows no sirven, porque a su núcleo le falta hysteria2. Esta suscripción envía por el nodo todo excepto tu red local por defecto, así que no hay que cambiar nada para el vídeo chino; si añades tus propias reglas, no pongas los dominios chinos en «direct» (directo).
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin

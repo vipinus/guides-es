@@ -22,7 +22,7 @@ Familiares o amigos que se quedan unos días en tu casa, una tableta y un portá
 
 ## Cuánto cuesta subir temporalmente: las cuentas
 
-Los tres planes tienen precios en proporción 1 : 2 : 4 (Individual 4 USD, Familiar 8 USD, Empresa 16 USD al mes), así que al cambiar de plan el tiempo restante se convierte en esa proporción y nadie sale perdiendo. Por ejemplo: con 30 días restantes en el plan Familiar, pasar temporalmente al plan Empresa los deja en 15 días; tras usar 3 días quedan 12, y al volver al Familiar se convierten en 24 días. Comparado con haber seguido en el Familiar todo el tiempo (30 − 3 = 27 días), son 3 días menos; es decir, esos 3 días se cobraron al precio del plan Empresa, y lo que pagaste de más es solo la diferencia de esos 3 días.
+Los tres planes tienen precios en proporción 1 : 2 : 4 (Individual 5 USD, Familiar 10 USD, Empresa 20 USD al mes), así que al cambiar de plan el tiempo restante se convierte en esa proporción y nadie sale perdiendo. Por ejemplo: con 30 días restantes en el plan Familiar, pasar temporalmente al plan Empresa los deja en 15 días; tras usar 3 días quedan 12, y al volver al Familiar se convierten en 24 días. Comparado con haber seguido en el Familiar todo el tiempo (30 − 3 = 27 días), son 3 días menos; es decir, esos 3 días se cobraron al precio del plan Empresa, y lo que pagaste de más es solo la diferencia de esos 3 días.
 
 Dos restricciones: si en los últimos 30 minutos se inició un pago que no se completó, el cambio no se hará; completa o abandona ese pago y espera media hora antes de cambiar. Al bajar al plan inferior, si los dispositivos en línea siguen superando su límite, la web te pedirá que primero desconectes los que sobran.
 
@@ -56,4 +56,4 @@ Si en casa cada vez hay más dispositivos y cada familiar lo necesita en su prop
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-09) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-09) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-09) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-09) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin

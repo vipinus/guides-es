@@ -11,7 +11,7 @@
 | Elemento | Notas |
 |---|---|
 | Un router compatible | Uno ya preparado funciona nada más sacarlo de la caja; si instalas el firmware tú mismo, consulta [Cómo instalar el firmware](02-flash-firmware-yourself.md) |
-| Una cuenta | Los planes Individual, Familiar y Empresa admiten la función de router. Tras registrarte, pide primero la prueba gratuita para comprobar todo el proceso: una cuenta nueva está en el plan Individual, con 24 horas de prueba |
+| Una cuenta | Los planes Individual, Familiar y Empresa admiten la función de router. Tras registrarte, pide primero la prueba gratuita para comprobar todo el proceso: una cuenta nueva está en el plan Individual, con 4 horas de prueba |
 | Una red de entrada | El módem o router que ya tienes en casa; el router nuevo va detrás |
 
 ## Listo en cinco pasos
@@ -37,4 +37,4 @@ Los dominios de vídeo de la lista de enrutamiento dividido se mantienen en un r
 - **Toda la casa va más lenta con un router antiguo**: el procesador no da abasto con el tráfico cifrado; cambia a un modelo con más rendimiento, consulta [Primeros pasos con un router ya preparado](01-plug-and-play-router.md).
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 24 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
