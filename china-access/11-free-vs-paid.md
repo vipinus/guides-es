@@ -28,7 +28,7 @@ El plan Individual de LeoTun cuesta 5 dólares al mes e incluye 24 regiones, 2 d
 
 Si no quieres comprar por meses, hay dos caminos: primero pide la prueba gratuita de 4 horas (sin tarjeta de crédito, una vez por cuenta) y pruébala una vez en la hora punta de la noche; o paga por días. Tras recargar puntos, el plan Individual gasta 1 punto al día, y 25 puntos cuestan 8 dólares, lo que sale por unos 0,32 dólares al día; comprar solo unos días antes de un viaje a China encaja bien.
 
-Cuando un amigo que invitas se registra y paga por primera vez, tu validez y la de tu amigo se amplían 20 días cada una (según el plan Individual), sin límite de personas. Es una fuente de tiempo gratis a largo plazo.
+Cuando un amigo que invitas se registra y paga por primera vez, tú y tu amigo recibís 15 puntos cada uno (unos 15 días del plan Individual), sin límite de personas. Es una fuente de tiempo gratis a largo plazo.
 
 ## Cómo comprobar el servicio antes de pagar
 
@@ -60,4 +60,4 @@ Cuando un amigo que invitas se registra y paga por primera vez, tu validez y la 
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin

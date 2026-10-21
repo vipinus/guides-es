@@ -17,7 +17,7 @@ Las cuentas de LeoTun tienen tres planes: Individual, Familiar y Empresa. Solo s
 
 ## Cuentas nuevas y elección de plan al comprar
 
-- Una cuenta recién registrada está por defecto en el plan Individual, y la prueba gratuita y la recompensa por invitación se dan según las cifras del plan Individual.
+- Una cuenta recién registrada está por defecto en el plan Individual, y la prueba gratuita se da con la duración del plan Individual.
 - La ventana de renovación tiene un selector de «Plan» que por defecto marca tu plan actual; pulses la tarjeta de precio que pulses en la página de inicio, la ventana preselecciona ese plan, y aun así puedes cambiarlo después.
 - Si eliges otro plan, la ventana muestra «Al completar el pago, su cuenta cambia automáticamente a tal plan; el tiempo restante sin vencer se convierte a igual valor». El precio, el descuento y el número de puntos se calculan en directo para el plan que elegiste; lo que ves es lo que se cobra.
 - También puedes cambiar de plan sin comprar nada: haz clic en tu nombre de usuario para cambiar de plan.
@@ -77,17 +77,17 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 - Con puntos también puedes renovar por meses (cuentan como 30 días) o por años (cuentan como 365 días), pero los puntos no tienen descuento.
 - A quién le conviene: a quien solo lo usa unos diez días al mes, o a quien solo lo necesita unos días antes de volver a China. Si lo usas a diario, la suscripción mensual sale mejor; en el plan Individual, si lo usas más de 15 días al mes, conviene suscribirse por meses.
 
-## Prueba gratuita y recompensa por invitación: el mismo valor en todos los planes
+## Prueba gratuita y recompensa por invitación en cada plan
 
 | | Individual | Familiar | Empresa |
 |---|---|---|---|
 | Prueba gratuita | 4 horas | 2 horas | 1 hora |
-| Por el primer pago de cada amigo invitado (lo reciben tú y tu amigo) | +20 días | +10 días | +5 días |
+| Por el primer pago de cada amigo invitado (lo reciben tú y tu amigo) | 15 puntos | 15 puntos | 15 puntos |
 | Servicio incluido al comprar un router (modelos de 24 meses) | 24 meses | 12 meses | 6 meses |
 
 - Prueba: solicítala en la página de inicio tras registrarte, sin tarjeta de crédito; se envía un código de prueba a tu correo y lo activas introduciendo el código de 6 dígitos; una vez por cuenta. Una cuenta nueva está en el plan Individual, así que lo normal es que recibas 4 horas.
-- Invitación: cuando un amigo se registra con tu enlace de recomendación y completa su primer pago, tu validez y la de tu amigo se amplían directamente, sin límite de personas. Los días de cada uno se calculan según el plan en el que esté esa persona en ese momento.
-- Todas estas cifras se convierten en proporción inversa al múltiplo de precio, así que el valor que recibes es el mismo cambies al plan que cambies.
+- Invitación: cuando un amigo se registra con tu enlace de recomendación y completa su primer pago, tú y tu amigo recibís 15 puntos cada uno, directamente en el saldo de puntos, igual en todos los planes y sin límite de personas. El plan Individual gasta 1 punto al día, así que 15 puntos equivalen a unos 15 días y puedes usarlos para renovar por días.
+- La prueba gratuita y el servicio incluido con la compra del router se convierten en proporción inversa al múltiplo de precio, así que el valor es el mismo en cualquier plan; la recompensa por invitación se da en puntos y es igual en los tres planes.
 
 ## Tras el vencimiento
 
@@ -117,4 +117,4 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 - [Preguntas frecuentes y contacto con soporte](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08)
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin

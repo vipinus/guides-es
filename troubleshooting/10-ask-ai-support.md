@@ -2,7 +2,7 @@
 
 > Versión web (más extensa): https://www.leotun.com/es/guides/ai-support?utm_source=github&utm_content=troubleshooting-10
 
-El agente de soporte de IA «Bob Esponja» (SpongeBob) responde las 4 horas en los tres grupos de Telegram, QQ y Discord (los enlaces están en la [05](05-how-to-reach-us.md)). Que acierte o no depende sobre todo de **si tu primer mensaje describe la situación completa**. Si lo hace, te da los pasos de una vez; si solo dices «no conecta», lo único que puede hacer es preguntarte. **Si hay un error, manda directamente una captura. Puedes preguntar en cualquier idioma.**
+El agente de soporte de IA «Bob Esponja» (SpongeBob) responde las 24 horas en los tres grupos de Telegram, QQ y Discord (los enlaces están en la [05](05-how-to-reach-us.md)). Que acierte o no depende sobre todo de **si tu primer mensaje describe la situación completa**. Si lo hace, te da los pasos de una vez; si solo dices «no conecta», lo único que puede hacer es preguntarte. **Si hay un error, manda directamente una captura. Puedes preguntar en cualquier idioma.**
 
 ## Incluye estas cuatro cosas en tu primer mensaje
 
@@ -51,4 +51,4 @@ Las direcciones de conexión de la VPN se sacan de la web: después de iniciar s
 - El soporte nunca te escribirá en privado para pedirte una contraseña, un código de verificación o un pago, y nunca te pedirá por iniciativa propia que instales un programa de control remoto.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 20 días del plan Individual, una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin

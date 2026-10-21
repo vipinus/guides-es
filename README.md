@@ -9,7 +9,7 @@ Otros idiomas: [English](https://github.com/vipinus/guides-en) · [简体中文]
 | Cómo conseguirlo | Qué recibes |
 |---|---|
 | Pide la prueba gratuita después de registrarte | 4 horas con todas las funciones, sin tarjeta de crédito |
-| Invita a un amigo que se registre y pague por primera vez | +20 días cada uno en tu fecha de vencimiento y en la de tu amigo (según el plan Individual; +10 días en Familiar y +5 días en Empresa, cada uno según su propio plan), una vez por amigo y sin límite de amigos |
+| Invita a un amigo que se registre y pague por primera vez | 15 puntos para ti y otros 15 para tu amigo (unos 15 días en el plan Individual, que gasta 1 punto al día), abonados directamente en el saldo de puntos, una vez por amigo y sin límite de amigos |
 
 Web: <https://www.leotun.com/es?utm_source=github&utm_content=readme> · Contacto: <https://www.leotun.com/es/contact?utm_source=github&utm_content=readme>
 
