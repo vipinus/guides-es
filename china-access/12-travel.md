@@ -29,7 +29,7 @@ Los códigos de verificación por SMS que nunca llegan no tienen nada que ver co
 
 ## Preguntas frecuentes
 
-**El viaje es de solo unos días. ¿Tengo que comprar un mes?** No. Pide la prueba gratuita de 4 horas, o recarga puntos y paga por días: el plan Individual cuesta 1 punto al día, unos 0,32 USD diarios, perfecto para unos pocos días.
+**El viaje es de solo unos días. ¿Tengo que comprar un mes?** No. Pide la prueba gratuita de 4 horas, o recarga puntos y paga por días: el plan Individual cuesta 1 punto al día, unos 0,4 USD diarios, perfecto para unos pocos días.
 
 **¿Pueden conectarse a la vez el móvil y el portátil?** Sí. Según el plan, una cuenta permite 2 / 4 / 8 dispositivos en línea a la vez (Individual / Familiar / Empresa), y el plan Individual es justo un móvil más un portátil.
 

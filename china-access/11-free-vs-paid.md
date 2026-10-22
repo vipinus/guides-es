@@ -26,7 +26,7 @@ Una prueba sencilla: si te molestaría que se cortara, es hora de pagar.
 
 El plan Individual de LeoTun cuesta 5 dólares al mes e incluye 24 regiones, 2 dispositivos en línea a la vez y todos los métodos de conexión (AnyConnect / OpenVPN / Hiddify / Proxy Web), y también se puede usar con un router. Los planes Familiar y Empresa cuestan 2 y 4 veces el Individual respectivamente. Las regiones, las líneas y los métodos de conexión son exactamente iguales en los tres planes; la única diferencia es el número de dispositivos en línea a la vez (4 y 8).
 
-Si no quieres comprar por meses, hay dos caminos: primero pide la prueba gratuita de 4 horas (sin tarjeta de crédito, una vez por cuenta) y pruébala una vez en la hora punta de la noche; o paga por días. Tras recargar puntos, el plan Individual gasta 1 punto al día, y 25 puntos cuestan 8 dólares, lo que sale por unos 0,32 dólares al día; comprar solo unos días antes de un viaje a China encaja bien.
+Si no quieres comprar por meses, hay dos caminos: primero pide la prueba gratuita de 4 horas (sin tarjeta de crédito, una vez por cuenta) y pruébala una vez en la hora punta de la noche; o paga por días. Tras recargar puntos, el plan Individual gasta 1 punto al día, y 25 puntos cuestan 10 dólares, lo que sale por unos 0,4 dólares al día; comprar solo unos días antes de un viaje a China encaja bien.
 
 Cuando un amigo que invitas se registra y paga por primera vez, tú y tu amigo recibís 15 puntos cada uno (unos 15 días del plan Individual), sin límite de personas. Es una fuente de tiempo gratis a largo plazo.
 
