@@ -72,10 +72,10 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 
 ## Puntos y pago por días
 
-- Recarga de puntos: 25 puntos por 10 USD, y puedes elegir entre 25 y 150 puntos cada vez. Los puntos no caducan nunca.
-- Consumo diario: Individual 1 punto al día, Familiar 2 puntos, Empresa 4 puntos. Un día del plan Individual sale por unos 0,4 USD.
+- Recarga de puntos: 28 puntos por 10 USD, y puedes elegir entre 28 y 168 puntos cada vez. Los puntos no caducan nunca.
+- Consumo diario: Individual 1 punto al día, Familiar 2 puntos, Empresa 4 puntos. Un día del plan Individual sale por unos 0,36 USD.
 - Con puntos también puedes renovar por meses (cuentan como 30 días) o por años (cuentan como 365 días), pero los puntos no tienen descuento.
-- A quién le conviene: a quien solo lo usa unos diez días al mes, o a quien solo lo necesita unos días antes de volver a China. Si lo usas a diario, la suscripción mensual sale mejor; en el plan Individual, si lo usas más de 12 días al mes, conviene suscribirse por meses.
+- A quién le conviene: a quien solo lo usa unos diez días al mes, o a quien solo lo necesita unos días antes de volver a China. Si lo usas a diario, la suscripción mensual sale mejor; en el plan Individual, si lo usas más de 14 días al mes, conviene suscribirse por meses.
 
 ## Prueba gratuita y recompensa por invitación en cada plan
 
@@ -102,7 +102,7 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 
 **¿Un solo usuario debería coger el plan Familiar?** No. Los tres planes tienen las mismas funciones y también se puede usar el router; los 2 dispositivos a la vez del plan Individual bastan para un móvil y un ordenador. Plantéate el Familiar solo si tienes un router en casa y además llevas dos dispositivos encima.
 
-**¿Por qué veo un importe en yuanes al usar Alipay?** Los precios están en dólares, y Alipay los cobra en yuanes a un cambio fijo de 1 USD = 7 CNY (al mes, Individual ¥35, Familiar ¥70, Empresa ¥140; 25 puntos, ¥70), así que el importe en yuanes no varía con el tipo de cambio.
+**¿Por qué veo un importe en yuanes al usar Alipay?** Los precios están en dólares, y Alipay los cobra en yuanes a un cambio fijo de 1 USD = 7 CNY (al mes, Individual ¥35, Familiar ¥70, Empresa ¥140; 28 puntos, ¥70), así que el importe en yuanes no varía con el tipo de cambio.
 
 **¿Puedo combinar puntos y suscripción mensual?** Sí. Los puntos se quedan ahí sin caducar; al renovar, si eliges «Puntos» como método de pago se descuentan del saldo, y si eliges otro método pagas con dinero como siempre.
 
