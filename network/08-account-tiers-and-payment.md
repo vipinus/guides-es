@@ -83,7 +83,7 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 |---|---|---|---|
 | Prueba gratuita | 30 minutos | 30 minutos | 30 minutos |
 | Por el primer pago de cada amigo invitado (lo reciben tú y tu amigo) | 15 puntos | 15 puntos | 15 puntos |
-| Servicio incluido al comprar un router (modelos de 2 años) | 2 años | 12 meses | 6 meses |
+| Servicio incluido al comprar un router (modelos de 3 años) | 3 años | 18 meses | 9 meses |
 
 - Prueba: solicítala en la página de inicio tras registrarte, sin tarjeta de crédito; se envía un código de prueba a tu correo y lo activas introduciendo el código de 6 dígitos; una vez por cuenta; 30 minutos en cualquier plan.
 - Invitación: cuando un amigo se registra con tu enlace de recomendación y completa su primer pago, tú y tu amigo recibís 15 puntos cada uno, directamente en el saldo de puntos, igual en todos los planes y sin límite de personas. El plan Individual gasta 1 punto al día, así que 15 puntos equivalen a unos 15 días y puedes usarlos para renovar por días.
