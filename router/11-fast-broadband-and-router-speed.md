@@ -21,11 +21,12 @@ Cada operador sale de China por un camino distinto, y acertar con la región imp
 
 **3. El propio router**
 El tráfico tiene que cifrarse antes de entrar en el túnel, y ese trabajo lo hace el procesador del router. Los modelos son muy distintos:
-- GL-MT300N-V2 (mini): puertos de 100 Mbps. Suficiente para 1080p en un móvil o un portátil, pero no está a la altura de una línea rápida
 - GL-MT3000 (de viaje): puede con un hogar pequeño. El primer router para la mayoría
+- GL-AXT1800 (de viaje): puertos gigabit. Para conectar dos equipos por cable en el viaje
+- GL-MT3600BE (de viaje): Wi‑Fi 7 y dos puertos de 2,5G. El inalámbrico más rápido que se puede llevar
 - GL-MT6000 (de sobremesa): puerto de 2,5G. Para muchos dispositivos, 4K y consolas
 
-Con una línea rápida y una casa con mucho uso, elige el MT3000 o el MT6000, no el mini.
+Con una línea rápida y una casa con mucho uso, elige el MT3000 o el MT6000.
 
 **4. Los últimos metros en casa**
 Conecta por cable la tele y el ordenador de sobremesa siempre que puedas. El wifi en un bloque de pisos abarrotado sufre muchas interferencias, y muchas veces «la línea va lenta» resulta estar dentro de casa.
