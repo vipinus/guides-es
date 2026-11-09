@@ -31,7 +31,7 @@ Por cualquiera de los dos caminos, el firmware actualiza sus componentes solo, s
 | GL-MT3600BE | De viaje | 350 USD | 2 años del plan Individual | Wi‑Fi 7 de doble banda con dos puertos de 2,5G, más o menos del tamaño del GL-MT3000 | Móviles y portátiles que ya tienen Wi‑Fi 7, cuando quieres un inalámbrico más rápido en algo que todavía se pueda llevar |
 | GL-MT6000 | De sobremesa | 400 USD | 2 años del plan Individual | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
 
-Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empresa la cuarta parte, el mismo valor en todos los casos. Envío gratis a todo el mundo, normalmente en 3–14 días, y devolución en 30 días.
+Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empresa la cuarta parte, el mismo valor en todos los casos. Envío gratis a todo el mundo, normalmente en 3–14 días. Garantía de seis meses; los routers no se reembolsan.
 
 ### Elección rápida según tu caso
 
