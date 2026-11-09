@@ -27,9 +27,9 @@ Por cualquiera de los dos caminos, el firmware actualiza sus componentes solo, s
 | Modelo | Tipo | Precio | Incluye | Qué es | Ideal para |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | 200 USD | 12 meses de servicio | Cabe en la palma de la mano y se alimenta por USB (funciona con una batería externa); solo wifi de 2,4 GHz, puertos de 100 Mbps | Una persona de viaje: cable de red o wifi del hotel, un móvil y un portátil para navegar y ver vídeo en 1080p. No sirve como router principal de casa |
-| **GL-MT3000** | De viaje | 300 USD | 3 años del plan Individual | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
-| GL-MT6000 | De sobremesa | 400 USD | 3 años del plan Individual | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
-| GL-XE3000 | Móvil | 400 USD | 3 años del plan Individual | 5G/4G y batería integrados; con una SIM es una red independiente, y también admite cable de red | Sitios sin banda ancha fija: autocaravanas, obras, ferias, alquileres cortos; o como respaldo de la línea de casa |
+| **GL-MT3000** | De viaje | 300 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
+| GL-MT6000 | De sobremesa | 400 USD | 2 años del plan Individual | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
+| GL-XE3000 | Móvil | 400 USD | 2 años del plan Individual | 5G/4G y batería integrados; con una SIM es una red independiente, y también admite cable de red | Sitios sin banda ancha fija: autocaravanas, obras, ferias, alquileres cortos; o como respaldo de la línea de casa |
 
 Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empresa la cuarta parte, el mismo valor en todos los casos. Envío gratis a todo el mundo, normalmente en 3–14 días, y devolución en 30 días.
 
@@ -46,7 +46,7 @@ Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empre
 
 - **Un equipo, dos papeles.** Tiene potencia de sobra para ser el router principal de un hogar pequeño y es lo bastante pequeño para viajar con él. Es el único de los cuatro que hace las dos cosas.
 - **No se quedará anticuado pronto.** El Wi‑Fi 6 y el puerto de 2,5G dejan margen frente a la mayoría de las bandas anchas domésticas. El mini solo tiene wifi de 2,4 GHz y puertos de 100 Mbps, que en casa se convierten en el cuello de botella.
-- **Las cuentas salen.** 300 USD con 3 años de servicio del plan Individual, frente a 200 USD con 12 meses del mini. Contando el servicio incluido, los 100 USD de más te dan un equipo claramente mejor y dos años extra.
+- **Las cuentas salen.** 300 USD con 2 años de servicio del plan Individual, frente a 200 USD con 12 meses del mini. Contando el servicio incluido, los 100 USD de más te dan un equipo claramente mejor y un año extra.
 - **Es el que mejor conocemos.** Nuestro equipo de pruebas es este modelo, el firmware nuevo se comprueba primero en él y el [vídeo tutorial de instalación](02-flash-firmware-yourself.md) lo usa. Si tienes un problema, tenemos el mismo equipo sobre la mesa para comparar.
 
 Cuándo no elegirlo: para una casa grande, muchos dispositivos o banda ancha de más de un gigabit, ve directamente al GL-MT6000; sin banda ancha fija, el GL-XE3000; si es solo para una persona de viaje y lo que más importa es el precio, basta con el GL-MT300N-V2.
