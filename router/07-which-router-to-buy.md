@@ -26,7 +26,7 @@ Por cualquiera de los dos caminos, el firmware actualiza sus componentes solo, s
 
 | Modelo | Tipo | Precio | Incluye | Qué es | Ideal para |
 |---|---|---|---|---|---|
-| **GL-MT3000** | De viaje | 300 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
+| **GL-MT3000** | De viaje | 250 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
 | GL-AXT1800 | De viaje | 300 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda, un puerto WAN gigabit y dos LAN gigabit, más o menos del tamaño del GL-MT3000 | Fuera de casa, cuando además del wifi necesitas conectar dos equipos por cable a la vez, como un portátil y un TV box |
 | GL-MT3600BE | De viaje | 350 USD | 2 años del plan Individual | Wi‑Fi 7 de doble banda con dos puertos de 2,5G, más o menos del tamaño del GL-MT3000 | Móviles y portátiles que ya tienen Wi‑Fi 7, cuando quieres un inalámbrico más rápido en algo que todavía se pueda llevar |
 | GL-MT6000 | De sobremesa | 400 USD | 2 años del plan Individual | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
@@ -46,7 +46,7 @@ Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empre
 
 - **Un equipo, dos papeles.** Tiene potencia de sobra para ser el router principal de un hogar pequeño y es lo bastante pequeño para viajar con él. Es el único de los cuatro que hace las dos cosas.
 - **No se quedará anticuado pronto.** El Wi‑Fi 6 y el puerto de 2,5G dejan margen frente a la mayoría de las bandas anchas domésticas.
-- **Es el más barato.** 300 USD con 2 años de servicio del plan Individual, lo mismo que el GL-AXT1800, pero con puerto de 2,5G.
+- **Es el más barato.** 250 USD con 2 años de servicio del plan Individual: el más barato de los cuatro, 50 USD menos que el GL-AXT1800, y aun así con puerto de 2,5G.
 - **Es el que mejor conocemos.** Nuestro equipo de pruebas es este modelo, el firmware nuevo se comprueba primero en él y el [vídeo tutorial de instalación](02-flash-firmware-yourself.md) lo usa. Si tienes un problema, tenemos el mismo equipo sobre la mesa para comparar.
 
 Cuándo no elegirlo: para uno de viaje con dos puertos de cable, el GL-AXT1800; para dispositivos con Wi‑Fi 7, el GL-MT3600BE; para una casa grande, muchos dispositivos o banda ancha de más de un gigabit, ve directamente al GL-MT6000.
