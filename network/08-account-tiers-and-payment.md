@@ -93,7 +93,7 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 
 - En las 24 horas previas al vencimiento recibirás un correo de aviso de que el servicio está a punto de caducar.
 - Tras el vencimiento no conecta ningún método; los dispositivos de la red Privada se desconectan en pocos minutos, y el código QR de Hiddify solo se puede volver a generar tras renovar.
-- Uno o dos días después del vencimiento recibirás un correo de que el servicio ha caducado; a quien cumpla los requisitos le incluye un botón para reclamar, sin iniciar sesión, 30 minutos; el enlace vale 7 días y solo se puede pulsar una vez.
+- Uno o dos días después del vencimiento recibirás un correo recordándote que el servicio ha caducado.
 - El servicio se restablece directamente al renovar; en los dispositivos de la red Privada basta con pulsar iniciar sesión una vez más en cada uno, y la configuración de salida se conserva.
 
 ## Preguntas frecuentes
