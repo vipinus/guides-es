@@ -51,4 +51,4 @@ Las direcciones de conexión de la VPN se sacan de la web: después de iniciar s
 - El soporte nunca te escribirá en privado para pedirte una contraseña, un código de verificación o un pago, y nunca te pedirá por iniciativa propia que instales un programa de control remoto.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin

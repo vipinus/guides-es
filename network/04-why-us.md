@@ -26,8 +26,8 @@ En el otro sentido, si estás fuera de China y necesitas servicios chinos, basta
 
 - Su punto fuerte: no cuestan nada y bastan para consultar algo de vez en cuando.
 - Sus puntos débiles: el ancho de banda de salida en China continental se paga por uso, así que un servicio gratuito solo se sostiene amontonando usuarios, limitando la velocidad o vendiendo datos; los que son extensiones del navegador solo hacen de proxy para las páginas web, y el vídeo, las apps y el DNS del sistema no pasan por ellos; los instaladores de origen desconocido son un riesgo en sí mismos (consulta «Cómo detectar programas VPN peligrosos»).
-- Lo que hacemos nosotros: la prueba gratuita de 4 horas no pide tarjeta de crédito y sirve para comprobar el servicio; el pago por días (con puntos) es para quien lo usa de vez en cuando; cuando un amigo que invitas paga, cada uno recibe 15 puntos (unos 15 días del plan Individual), una fuente de tiempo gratis a largo plazo.
-- Cómo lo organizamos: el tiempo gratis sale de la prueba de 4 horas y de las recompensas por invitación; para un uso continuado se paga por meses, por años o por días.
+- Lo que hacemos nosotros: la prueba gratuita de 30 minutos no pide tarjeta de crédito y sirve para comprobar el servicio; el pago por días (con puntos) es para quien lo usa de vez en cuando; cuando un amigo que invitas paga, cada uno recibe 15 puntos (unos 15 días del plan Individual), una fuente de tiempo gratis a largo plazo.
+- Cómo lo organizamos: el tiempo gratis sale de la prueba de 30 minutos y de las recompensas por invitación; para un uso continuado se paga por meses, por años o por días.
 
 ## Seis métodos de conexión, una sola cuenta
 
@@ -55,9 +55,9 @@ Cada red tiene un método que le va mejor, por eso tienes los seis: con la misma
 
 **¿Por qué no ofrecen cientos de nodos como los proveedores de líneas proxy?** Más nodos no significa más estabilidad. Detrás de cada una de nuestras regiones hay varias máquinas, y al conectar el sistema elige la menos cargada, así que no tienes que hacer pruebas de velocidad ni escoger nodos; cuando se bloquea una dirección se sustituye automáticamente, y no tienes que cambiar la dirección en tu cliente.
 
-**¿Podría salir más barato?** El plan Individual cuesta 5 USD al mes, y cuanto más tiempo compras mayor es el descuento (5 % → 10 % → 20 %); por días, con puntos, sale por unos 0,36 USD al día; cuando un amigo que invitas paga, cada uno recibe 15 puntos (unos 15 días del plan Individual), sin límite de personas. Además, al registrarte tienes una prueba gratuita de 4 horas.
+**¿Podría salir más barato?** El plan Individual cuesta 5 USD al mes, y cuanto más tiempo compras mayor es el descuento (5 % → 10 % → 20 %); por días, con puntos, sale por unos 0,36 USD al día; cuando un amigo que invitas paga, cada uno recibe 15 puntos (unos 15 días del plan Individual), sin límite de personas. Además, al registrarte tienes una prueba gratuita de 30 minutos.
 
-**¿Cómo puedo comprobar lo que dicen?** Pide la prueba de 4 horas, conéctate a la región de China en la hora punta de la noche y mira un episodio en Tencent Video, conéctate a una región extranjera y abre YouTube, y comprueba la ubicación registrada de la IP y una página de prueba de IPv6. La lista de comprobaciones está en «Cómo elegir una VPN hacia China».
+**¿Cómo puedo comprobar lo que dicen?** Pide la prueba de 30 minutos, conéctate a la región de China en la hora punta de la noche y mira un episodio en Tencent Video, conéctate a una región extranjera y abre YouTube, y comprueba la ubicación registrada de la IP y una página de prueba de IPv6. La lista de comprobaciones está en «Cómo elegir una VPN hacia China».
 
 
 ## Para seguir leyendo
@@ -70,4 +70,4 @@ Cada red tiene un método que le va mejor, por eso tienes los seis: con la misma
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-04) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-04) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-04) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-04) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin

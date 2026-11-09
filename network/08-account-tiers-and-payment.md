@@ -17,7 +17,7 @@ Las cuentas de LeoTun tienen tres planes: Individual, Familiar y Empresa. Solo s
 
 ## Cuentas nuevas y elección de plan al comprar
 
-- Una cuenta recién registrada está por defecto en el plan Individual, y la prueba gratuita se da con la duración del plan Individual.
+- Una cuenta recién registrada está por defecto en el plan Individual.
 - La ventana de renovación tiene un selector de «Plan» que por defecto marca tu plan actual; pulses la tarjeta de precio que pulses en la página de inicio, la ventana preselecciona ese plan, y aun así puedes cambiarlo después.
 - Si eliges otro plan, la ventana muestra «Al completar el pago, su cuenta cambia automáticamente a tal plan; el tiempo restante sin vencer se convierte a igual valor». El precio, el descuento y el número de puntos se calculan en directo para el plan que elegiste; lo que ves es lo que se cobra.
 - También puedes cambiar de plan sin comprar nada: haz clic en tu nombre de usuario para cambiar de plan.
@@ -81,19 +81,19 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 
 | | Individual | Familiar | Empresa |
 |---|---|---|---|
-| Prueba gratuita | 4 horas | 2 horas | 1 hora |
+| Prueba gratuita | 30 minutos | 30 minutos | 30 minutos |
 | Por el primer pago de cada amigo invitado (lo reciben tú y tu amigo) | 15 puntos | 15 puntos | 15 puntos |
 | Servicio incluido al comprar un router (modelos de 24 meses) | 24 meses | 12 meses | 6 meses |
 
-- Prueba: solicítala en la página de inicio tras registrarte, sin tarjeta de crédito; se envía un código de prueba a tu correo y lo activas introduciendo el código de 6 dígitos; una vez por cuenta. Una cuenta nueva está en el plan Individual, así que lo normal es que recibas 4 horas.
+- Prueba: solicítala en la página de inicio tras registrarte, sin tarjeta de crédito; se envía un código de prueba a tu correo y lo activas introduciendo el código de 6 dígitos; una vez por cuenta; 30 minutos en cualquier plan.
 - Invitación: cuando un amigo se registra con tu enlace de recomendación y completa su primer pago, tú y tu amigo recibís 15 puntos cada uno, directamente en el saldo de puntos, igual en todos los planes y sin límite de personas. El plan Individual gasta 1 punto al día, así que 15 puntos equivalen a unos 15 días y puedes usarlos para renovar por días.
-- La prueba gratuita y el servicio incluido con la compra del router se convierten en proporción inversa al múltiplo de precio, así que el valor es el mismo en cualquier plan; la recompensa por invitación se da en puntos y es igual en los tres planes.
+- El servicio incluido con la compra del router se convierte en proporción inversa al múltiplo de precio, así que el valor es el mismo en cualquier plan; la prueba y la recompensa por invitación (en puntos) son iguales en los tres planes.
 
 ## Tras el vencimiento
 
 - En las 24 horas previas al vencimiento recibirás un correo de aviso de que el servicio está a punto de caducar.
 - Tras el vencimiento no conecta ningún método; los dispositivos de la red Privada se desconectan en pocos minutos, y el código QR de Hiddify solo se puede volver a generar tras renovar.
-- Uno o dos días después del vencimiento recibirás un correo de que el servicio ha caducado; a quien cumpla los requisitos le incluye un botón para reclamar, sin iniciar sesión, 4 / 2 / 1 horas según tu plan; el enlace vale 7 días y solo se puede pulsar una vez.
+- Uno o dos días después del vencimiento recibirás un correo de que el servicio ha caducado; a quien cumpla los requisitos le incluye un botón para reclamar, sin iniciar sesión, 30 minutos; el enlace vale 7 días y solo se puede pulsar una vez.
 - El servicio se restablece directamente al renovar; en los dispositivos de la red Privada basta con pulsar iniciar sesión una vez más en cada uno, y la configuración de salida se conserva.
 
 ## Preguntas frecuentes
@@ -117,4 +117,4 @@ En China continental, después de hacer clic en «Confirmar Pago», la página m
 - [Preguntas frecuentes y contacto con soporte](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08)
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 4 horas; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
