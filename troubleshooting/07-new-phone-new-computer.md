@@ -30,7 +30,7 @@ El archivo de configuración suele estar en la unidad del sistema y se pierde al
 
 ### Cambiar de router
 
-Un router es distinto de los demás dispositivos: entre él y la cuenta hay una **vinculación**. Para pasar a un router nuevo, desvincula primero el antiguo. Este paso lo haces tú en la web: inicia sesión, abre la sección Router y haz clic en Desvincular en la fila «Vinculado · modelo · Desvincular»; después el router nuevo se conecta solo. Los detalles están en el artículo correspondiente de la guía de routers.
+Un router es distinto de los demás dispositivos: entre él y la cuenta hay una **vinculación**. Según el plan, una cuenta puede vincular de 1 a 6 routers; mientras queden huecos, el router nuevo se conecta directamente. Si están todos ocupados, desvincula primero el antiguo. Este paso lo haces tú en la web: inicia sesión, abre la sección Router y, en la lista de routers vinculados bajo «Construir Firmware» (con el contador «x / y routers»), haz clic en «Desvincular» al final de la fila del antiguo; después el router nuevo se conecta solo. Los detalles están en el artículo correspondiente de la guía de routers.
 
 ## Un error muy habitual
 
@@ -45,7 +45,7 @@ Así que la práctica habitual es siempre la misma: **ve a la web y consigue una
 
 ## Qué hacer cuando no quedan plazas
 
-El número de dispositivos que pueden estar en línea a la vez con una cuenta depende del plan: 2 en Individual, 4 en Familiar, 8 en Empresa. Si el dispositivo antiguo sigue conectado cuando cambias, puede que te diga que has alcanzado el límite. Tienes tres opciones:
+El número de dispositivos que pueden estar en línea a la vez con una cuenta depende del plan: 2 en Básico, 4 en Estándar, 8 en Pro, 16 en Élite, 32 en Empresa y 64 en Supremo. Si el dispositivo antiguo sigue conectado cuando cambias, puede que te diga que has alcanzado el límite. Tienes tres opciones:
 
 - Cierra sesión o cierra el cliente en el dispositivo antiguo
 - Espera un rato: las conexiones inactivas se liberan solas
@@ -54,4 +54,4 @@ El número de dispositivos que pueden estar en línea a la vez con una cuenta de
 En la web puedes ver cuántos dispositivos hay en línea ahora mismo y de qué tipo es cada uno, y así averiguar si te olvidaste de apagar alguno.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

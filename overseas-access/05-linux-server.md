@@ -34,7 +34,7 @@ En este camino, por diseño, no hay ninguna conexión que se pueda caer; no nece
 
 ## Lo que conviene saber
 
-- Una máquina Linux cuenta como un dispositivo y comparte el cupo de dispositivos simultáneos con los demás (Individual 2 dispositivos, Familiar 4 dispositivos, Empresa 8 dispositivos); el proxy web del camino dos se cuenta por conexión y también entra en el cupo.
+- Una máquina Linux cuenta como un dispositivo y comparte el cupo de dispositivos simultáneos con los demás (Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64 dispositivos); el proxy web del camino dos se cuenta por conexión y también entra en el cupo.
 - El archivo de configuración y el de contraseña equivalen a tu cuenta; no los subas a un repositorio git ni los metas en una imagen.
 - Al cambiar la contraseña, la configuración antigua deja de funcionar al instante; es el mecanismo de revocación previsto. Basta con actualizar el archivo de contraseña.
 - Si usas la línea en un servidor en la nube, respeta las condiciones de uso del proveedor; la línea solo registra la duración de la conexión y el tráfico total.
@@ -59,4 +59,4 @@ En este camino, por diseño, no hay ninguna conexión que se pueda caer; no nece
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=overseas-access-05) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=overseas-access-05) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=overseas-access-05) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=overseas-access-05) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

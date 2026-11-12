@@ -11,7 +11,7 @@ Para quien tiene muchos dispositivos, lo más pesado es configurarlos uno a uno,
 
 ## Cómo se cuentan los dispositivos simultáneos
 
-Una cuenta se puede instalar en todos los dispositivos que quieras; el único límite es cuántos están en línea a la vez: Individual 2, Familiar 4, Empresa 8, y ese cupo se comparte con Cisco, Hiddify y los demás métodos. Si superas el límite de tu plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
+Una cuenta se puede instalar en todos los dispositivos que quieras; el único límite es cuántos están en línea a la vez: Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64, y ese cupo se comparte con Cisco, Hiddify y los demás métodos. Si superas el límite de tu plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
 
 Un router cuenta como un dispositivo, y los que hay detrás no cuentan. Un router o NAS en casa más el móvil y el portátil que llevas encima suele ser suficiente.
 
@@ -49,4 +49,4 @@ Un router cuenta como un dispositivo, y los que hay detrás no cuentan. Un route
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

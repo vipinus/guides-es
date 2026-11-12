@@ -24,11 +24,11 @@ Una prueba sencilla: si te molestaría que se cortara, es hora de pagar.
 
 ## Cuánto gastar
 
-El plan Individual de LeoTun cuesta 5 dólares al mes e incluye 24 regiones, 2 dispositivos en línea a la vez y todos los métodos de conexión (AnyConnect / OpenVPN / Hiddify / Proxy Web), y también se puede usar con un router. Los planes Familiar y Empresa cuestan 2 y 4 veces el Individual respectivamente. Las regiones, las líneas y los métodos de conexión son exactamente iguales en los tres planes; la única diferencia es el número de dispositivos en línea a la vez (4 y 8).
+El plan Básico de LeoTun cuesta 5 dólares al mes e incluye 24 regiones, 2 dispositivos en línea a la vez y todos los métodos de conexión (AnyConnect / OpenVPN / Hiddify / Proxy Web), y también se puede usar con un router. Por encima, Estándar, Pro, Élite, Empresa y Supremo cuestan cada uno el doble que el anterior. Las regiones, las líneas y los métodos de conexión son exactamente iguales en todos los planes; la única diferencia es el número de dispositivos en línea a la vez (de 4 a 64) y cuántos routers puedes vincular.
 
-Si no quieres comprar por meses, hay dos caminos: primero pide la prueba gratuita de 30 minutos (sin tarjeta de crédito, una vez por cuenta) y pruébala una vez en la hora punta de la noche; o paga por días. Tras recargar puntos, el plan Individual gasta 1 punto al día, y 28 puntos cuestan 10 dólares, lo que sale por unos 0,36 dólares al día; comprar solo unos días antes de un viaje a China encaja bien.
+Si no quieres comprar por meses, hay dos caminos: primero pide la prueba gratuita de 30 minutos (sin tarjeta de crédito, una vez por cuenta) y pruébala una vez en la hora punta de la noche; o paga por días. Tras recargar puntos, el plan Básico gasta 1 punto al día, y 28 puntos cuestan 10 dólares, lo que sale por unos 0,36 dólares al día; comprar solo unos días antes de un viaje a China encaja bien.
 
-Cuando un amigo que invitas se registra y paga por primera vez, tú y tu amigo recibís 15 puntos cada uno (unos 15 días del plan Individual), sin límite de personas. Es una fuente de tiempo gratis a largo plazo.
+Cuando un amigo que invitas se registra y paga por primera vez, tú y tu amigo recibís 15 puntos cada uno (unos 15 días del plan Básico), sin límite de personas. Es una fuente de tiempo gratis a largo plazo.
 
 ## Cómo comprobar el servicio antes de pagar
 
@@ -60,4 +60,4 @@ Cuando un amigo que invitas se registra y paga por primera vez, tú y tu amigo r
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-11) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-11) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

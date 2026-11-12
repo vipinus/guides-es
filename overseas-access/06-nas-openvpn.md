@@ -31,7 +31,7 @@ Acceder al NAS desde fuera (abrir carpetas compartidas en un viaje, ver las cám
 
 - El archivo de configuración lleva tu cuenta, y el campo de contraseña del NAS deja de funcionar cuando cambias la contraseña: vuelve a descargar el .ovpn y sustitúyelo, o cambia solo la contraseña en el perfil de VPN.
 - Cuando la cuenta caduca, el NAS se desconecta; tras renovar se vuelve a conectar solo, sin cambiar la configuración.
-- El NAS cuenta como un dispositivo y comparte el cupo de conexiones simultáneas con tus otros dispositivos (Individual 2, Familiar 4, Empresa 8).
+- El NAS cuenta como un dispositivo y comparte el cupo de conexiones simultáneas con tus otros dispositivos (Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64).
 - La línea va sobre UDP; un NAS con banda ancha doméstica casi nunca se encontrará con restricciones de UDP.
 
 ## Preguntas frecuentes
@@ -54,4 +54,4 @@ Acceder al NAS desde fuera (abrir carpetas compartidas en un viaje, ver las cám
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=overseas-access-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=overseas-access-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=overseas-access-06) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=overseas-access-06) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

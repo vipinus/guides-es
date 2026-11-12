@@ -24,7 +24,7 @@ Es el caso más habitual y también el más difícil. La NVR no tiene IP públic
 2. Añade también a la misma red privada el móvil o el ordenador que tienes en el extranjero.
 3. A partir de ahí, el dispositivo en el extranjero llega directamente a la NVR por su dirección de la red local de casa, igual que si estuvieras en casa.
 
-La red «Privada» de LeoTun es justo este tipo de red privada. Con una cuenta no hay límite de dispositivos donde instalarla, y los que pueden estar en línea a la vez dependen del plan: Individual 2, Familiar 4, Empresa 8. Un dispositivo en casa más unos cuantos en el extranjero encajan justo en el plan Familiar.
+La red «Privada» de LeoTun es justo este tipo de red privada. Con una cuenta no hay límite de dispositivos donde instalarla, y los que pueden estar en línea a la vez dependen del plan: Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64. Un dispositivo en casa más unos cuantos en el extranjero encajan justo en el plan Estándar.
 
 ## Caso tres: las cuentas no coinciden
 
@@ -35,4 +35,4 @@ Un dispositivo comprado en China está vinculado a una cuenta china, y la app de
 La imagen de las cámaras de tu casa solo debería circular entre tus dispositivos y tu casa. La opción de la red privada prefiere una conexión directa entre dispositivos y solo pasa por un servidor intermedio cuando no puede conectar directamente, y la imagen no se guarda en ningún servidor; la opción de la nube del fabricante, en cambio, pasa por el fabricante. En cualquier caso, no uses «herramientas de túnel» de origen desconocido: equivale a entregarle a otro las cámaras de tu casa.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

@@ -29,9 +29,9 @@ Los códigos de verificación por SMS que nunca llegan no tienen nada que ver co
 
 ## Preguntas frecuentes
 
-**El viaje es de solo unos días. ¿Tengo que comprar un mes?** No. Recarga puntos y paga por días: el plan Individual cuesta 1 punto al día, unos 0,36 USD diarios, perfecto para unos pocos días. Antes puedes probarlo con la prueba gratuita de 30 minutos.
+**El viaje es de solo unos días. ¿Tengo que comprar un mes?** No. Recarga puntos y paga por días: el plan Básico cuesta 1 punto al día, unos 0,36 USD diarios, perfecto para unos pocos días. Antes puedes probarlo con la prueba gratuita de 30 minutos.
 
-**¿Pueden conectarse a la vez el móvil y el portátil?** Sí. Según el plan, una cuenta permite 2 / 4 / 8 dispositivos en línea a la vez (Individual / Familiar / Empresa), y el plan Individual es justo un móvil más un portátil.
+**¿Pueden conectarse a la vez el móvil y el portátil?** Sí. Según el plan, una cuenta permite de 2 a 64 dispositivos en línea a la vez (Básico 2, Estándar 4, y el doble en cada plan superior), y el plan Básico es justo un móvil más un portátil.
 
 **¿Por qué se recomienda Cisco para viajar y no Hiddify?** En una red desconocida, lo que más preocupa es que UDP esté restringido. Cisco funciona sobre TLS, igual que al visitar una web HTTPS, y pasa casi en cualquier sitio; Hiddify es más rápido en redes con mucha pérdida de paquetes, pero no funciona cuando UDP está restringido. Lo más fiable es instalar los dos y cambiar cuando uno no funcione.
 
@@ -47,4 +47,4 @@ Los códigos de verificación por SMS que nunca llegan no tienen nada que ver co
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-12) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-12) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=china-access-12) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=china-access-12) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

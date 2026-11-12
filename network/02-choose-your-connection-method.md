@@ -9,7 +9,7 @@ Una cuenta de LeoTun tiene seis métodos de conexión: red Privada (Tailscale), 
 - Un ordenador de la empresa, sin derechos de administrador: Proxy Web. Solo instalas una extensión del navegador, no necesita derechos de administrador y no toca la configuración de red de la empresa.
 - iPhone, dispositivos antiguos: Cisco. Conecta con la VPN integrada en el sistema o con el cliente oficial, no hace falta importar ninguna configuración y es el más compatible.
 - NAS (Synology, QNAP), servidores Linux: OpenVPN. Importas un archivo .ovpn y conecta automáticamente al arrancar; la mayoría de estos dispositivos traen el cliente integrado.
-- Teles, decodificadores, consolas, el móvil de un familiar mayor: Router. Todo lo que se conecta al wifi pasa por la línea, y no hay que instalar nada en el dispositivo. Los tres planes pueden usarlo.
+- Teles, decodificadores, consolas, el móvil de un familiar mayor: Router. Todo lo que se conecta al wifi pasa por la línea, y no hay que instalar nada en el dispositivo. Los seis planes de pago pueden usarlo.
 - Muchos dispositivos de toda la familia o de una oficina: Router, se configura una vez y vale para todos; si además quieres acceder desde fuera al NAS de casa, añade la red Privada.
 
 ## Según la red: en qué red estás
@@ -62,7 +62,7 @@ Si una web no abre con el enrutamiento dividido, cambia primero temporalmente a 
 
 **¿Cuál para juegos y llamadas de voz?** Hiddify, red Privada o Router, eligiendo la región con menor latencia. El proxy web solo se encarga del navegador; los juegos y las apps de llamadas no pasan por él.
 
-**¿Se pueden usar los seis métodos a la vez?** En dispositivos distintos, sí; todos los métodos de la misma cuenta comparten el cupo de dispositivos en línea a la vez (Individual 2 dispositivos, Familiar 4 dispositivos, Empresa 8 dispositivos). No ejecutes dos métodos para todo el dispositivo a la vez en el mismo dispositivo (por ejemplo, red Privada y Cisco), porque se pelearán por la configuración de red.
+**¿Se pueden usar los seis métodos a la vez?** En dispositivos distintos, sí; todos los métodos de la misma cuenta comparten el cupo de dispositivos en línea a la vez (Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64 dispositivos). No ejecutes dos métodos para todo el dispositivo a la vez en el mismo dispositivo (por ejemplo, red Privada y Cisco), porque se pelearán por la configuración de red.
 
 **¿Tengo que elegir entre router y cliente?** No. Usa el router en casa y activa el cliente en el móvil cuando salgas; cada uno cuenta como un dispositivo.
 
@@ -78,4 +78,4 @@ Si una web no abre con el enrutamiento dividido, cambia primero temporalmente a 
 Versión web de este artículo (también disponible en otros idiomas): https://www.leotun.com/es/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-02) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-02) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-02) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-02) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

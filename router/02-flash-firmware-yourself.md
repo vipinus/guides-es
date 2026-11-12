@@ -9,7 +9,7 @@ Esta guía es para quien ya tiene un router cuyo modelo está en la lista de com
 ## Antes de empezar
 
 - **Comprueba que tu modelo es compatible.** Inicia sesión, abre la sección **Router** y busca tu modelo por marca. La revisión de hardware que va tras el nombre del modelo (v1, v2, etc.) también tiene que coincidir.
-- **Tu cuenta tiene que estar activa.** Los planes Individual, Familiar y Empresa pueden usar router.
+- **Tu cuenta tiene que estar activa.** Los seis planes de pago pueden usar router (la prueba gratuita no).
 - **Ten a mano un cable de red.** El puerto WAN del router va a tu módem o al router de arriba. Durante la instalación es mejor conectar también el ordenador al router por cable; es más estable que el wifi.
 - **Guarda una copia del firmware original.** Descarga el firmware original de tu modelo desde la web del fabricante, por si algún día quieres volver atrás.
 
@@ -84,10 +84,10 @@ Para confirmar que está conectado, abre desde un dispositivo conectado al route
 
 ## Sustituir un router antiguo por uno nuevo
 
-Una cuenta está vinculada a un solo router a la vez. Si tu cuenta ya se usó antes en otro router:
+Según el plan, una cuenta puede vincular de 1 a 6 routers (Básico 1, y uno más en cada plan superior). Mientras queden huecos, el router nuevo **se conecta automáticamente** y queda vinculado, sin desvincular nada. Si ya están todos ocupados y quieres poner un router nuevo:
 
-1. Inicia sesión, abre la sección **Router** y, bajo el título «Construir Firmware», verás el modelo **Vinculado**, con **Desvincular** al lado.
-2. Haz clic en Desvincular. Puedes hacerlo aunque el router antiguo esté roto o no lo tengas a mano.
+1. Inicia sesión y abre la sección **Router**; bajo el título «Construir Firmware» está la lista de routers vinculados (con el contador «x / y routers»), una fila por router con el modelo y el final de la MAC.
+2. Haz clic en **Desvincular** al final de la fila del que ya no usas. Puedes hacerlo aunque el router antiguo esté roto o no lo tengas a mano.
 3. En el router nuevo no hay que hacer nada: **se conecta automáticamente** y queda vinculado a tu cuenta.
 
 Si instalas el router nuevo antes de desvincular, tampoco pasa nada. El router nuevo se queda esperando y se conecta solo en cuanto desvinculas.
@@ -104,7 +104,7 @@ Si pasados unos diez minutos sigue sin funcionar, revisa esto por orden:
 
 1. **¿Funciona la propia conexión de banda ancha?** Desde un dispositivo conectado al router, abre cualquier web normal. Si falla, el problema es el cable o el módem: comprueba que el cable del puerto WAN está bien encajado.
 2. **¿Ha caducado la cuenta?** Inicia sesión en la web y comprueba la fecha de vencimiento. Tras renovar, espera unos minutos.
-3. **¿Sigue la cuenta vinculada al router antiguo?** En la sección Router, mira el modelo vinculado. Si no es este router, haz clic en Desvincular.
+3. **¿Están ocupados todos los huecos de routers de la cuenta?** En la sección Router, mira el contador «x / y routers». Si está lleno, haz clic en Desvincular al final de la fila del que no usas. Si la página de inicio de sesión del router dice que el usuario o la contraseña son incorrectos aunque la contraseña esté bien, lo más probable es que estén todos ocupados.
 4. **Reinicia el router una vez.** Desenchúfalo, espera diez segundos, vuelve a enchufarlo y dale de dos a tres minutos.
 5. **Inicia sesión a mano.** Abre `http://192.168.11.1` y entra en el router con el usuario `root` y la contraseña `www.anyfq.com`. Luego ve a **Services** (servicios) → **VPN**, introduce el correo y la contraseña de tu cuenta y guarda.
 
@@ -124,11 +124,11 @@ La mayoría de los routers tienen un modo de recuperación: desenchufa la corrie
 
 **¿Puedo volver al firmware original?** Sí. Usa el modo de recuperación descrito en «Si la instalación sale mal» para subir el firmware original.
 
-**¿Un mismo archivo de firmware sirve para dos routers?** No. El firmware se genera por cuenta, y una cuenta está vinculada a un solo router a la vez.
+**¿Puede una cuenta usar dos routers?** Sí, desde el plan Estándar (el Básico solo permite vincular 1): en la sección Router genera el firmware para el modelo del segundo router e instálalo; se vincula automáticamente la primera vez que se conecta.
 
 **¿Necesito generar uno nuevo si cambio de cuenta?** No. Cierra sesión en la página de administración e inicia sesión con la cuenta nueva.
 
 **¿Las futuras actualizaciones exigen volver a instalar?** Las actualizaciones habituales las recoge el router solo; no tienes que hacer nada. Solo una versión mayor requiere generar un firmware nuevo e instalar una vez el archivo sysupgrade, y la web lo anunciará cuando ocurra.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-02) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-02) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-02) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-02) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

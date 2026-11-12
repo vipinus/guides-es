@@ -9,7 +9,7 @@ Otros idiomas: [English](https://github.com/vipinus/guides-en) · [简体中文]
 | Cómo conseguirlo | Qué recibes |
 |---|---|
 | Pide la prueba gratuita después de registrarte | 30 minutos con todas las funciones, sin tarjeta de crédito |
-| Invita a un amigo que se registre y pague por primera vez | 15 puntos para ti y otros 15 para tu amigo (unos 15 días en el plan Individual, que gasta 1 punto al día), abonados directamente en el saldo de puntos, una vez por amigo y sin límite de amigos |
+| Invita a un amigo que se registre y pague por primera vez | 15 puntos para ti y otros 15 para tu amigo (unos 15 días en el plan Básico, que gasta 1 punto al día), abonados directamente en el saldo de puntos, una vez por amigo y sin límite de amigos |
 
 Web: <https://www.leotun.com/es?utm_source=github&utm_content=readme> · Contacto: <https://www.leotun.com/es/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Una explicación clara de los **principios** del acceso transfronterizo, de **c�
 | [05 · Cómo detectar programas VPN peligrosos](network/05-risky-vpn-apps.md) |
 | [06 · Por qué a veces va rápido y a veces lento](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Qué problemas resuelve la línea y cuáles necesitan otra solución](network/07-when-you-do-not-need-us.md) |
-| [08 · Elegir entre los tres planes, renovación y pago](network/08-account-tiers-and-payment.md) |
+| [08 · Elegir plan, renovación y pago](network/08-account-tiers-and-payment.md) |
 | [09 · Qué hacer cuando te quedas sin conexiones de dispositivo](network/09-not-enough-devices.md) |
 
 ### [Guías de clientes · Instalación y configuración](client/)

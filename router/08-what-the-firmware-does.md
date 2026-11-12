@@ -39,11 +39,11 @@ Solo una actualización de versión mayor de todo el firmware exige instalar el 
 
 ## Preguntas frecuentes
 
-**¿El plan Individual puede usar un router?** Sí. Individual, Familiar y Empresa admiten router, sin necesidad de cambiar de plan.
+**¿El plan Básico puede usar un router?** Sí. Los seis planes de pago admiten router, sin límite de velocidad y sin necesidad de cambiar de plan; el Básico permite vincular 1, y para vincular más hay que subir de plan.
 
 **¿Cuántas plazas de dispositivo ocupa el router?** Una; los dispositivos que hay detrás no cuentan.
 
 **¿El firmware tiene alguna puerta trasera?** Está compilado a partir de OpenWrt, con solo el componente que se conecta a la VPN y las reglas de enrutamiento dividido añadidos; la VPN solo registra la duración de la conexión y el tráfico total, para la facturación.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-08) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-08) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

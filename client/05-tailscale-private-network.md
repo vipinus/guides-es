@@ -29,7 +29,7 @@ La sección de red Privada usa Tailscale (una herramienta de red basada en WireG
 ## Vencimiento y número de dispositivos
 
 - La validez del inicio de sesión de un dispositivo sigue la fecha de vencimiento de la cuenta, y se desconecta a los pocos minutos de vencer; tras renovar, basta con iniciar sesión una vez más. No hace falta reinstalar.
-- El número de dispositivos en línea a la vez depende de tu plan (Individual 2, Familiar 4, Empresa 8), y el cupo se comparte con los demás métodos de acceso; si superas el límite de tu plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
+- El número de dispositivos en línea a la vez depende de tu plan (Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64), y el cupo se comparte con los demás métodos de acceso; si superas el límite de tu plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
 
 ## Dos casos en los que encaja mejor otro método
 
@@ -37,4 +37,4 @@ La sección de red Privada usa Tailscale (una herramienta de red basada en WireG
 - En una red de campus o de empresa que restringe UDP: WireGuard funciona sobre UDP, así que solo puede pasar por los relés de Tailscale, que son muy lentos; cambia a AnyConnect.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-05) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-05) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=client-05) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=client-05) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

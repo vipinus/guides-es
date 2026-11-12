@@ -16,7 +16,7 @@ Busca tu error en la tabla. Para saber cómo importar desde el principio, consul
 
 ## ¿Tengo que volver a importar tras renovar, cambiar de plan o cambiar la contraseña?
 
-- **Renovar o cambiar de plan (Individual / Familiar / Empresa)**: No. La configuración que tienes sigue funcionando.
+- **Renovar o cambiar de plan (Básico, Estándar, Pro, etc.)**: No. La configuración que tienes sigue funcionando.
 - **Cambiar la contraseña**: La configuración antigua deja de funcionar al instante; vuelve a escanear el QR. Si pierdes el móvil o se filtra el enlace, usa esto para revocar el acceso.
 - **Cuenta caducada**: La configuración devuelve 401. Tras renovar no necesitas una configuración nueva; basta con volver a conectar.
 - **Importada antes de septiembre de 2026**: Le falta la regla que rechaza IPv6, así que al ver vídeo chino desde el extranjero te saldrá un aviso de restricción por derechos de autor. Bórrala y vuelve a importarla; consulta la [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Busca tu error en la tabla. Para saber cómo importar desde el principio, consul
 Dile a soporte tres cosas: el nombre y la versión del cliente, la región y el texto exacto del error o una captura de pantalla.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-04) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-04) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-04) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-04) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

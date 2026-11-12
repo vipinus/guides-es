@@ -26,9 +26,9 @@ La sección de la red Privada usa Tailscale, una herramienta de red basada en Wi
 
 ## Vencimiento y número de dispositivos
 
-La validez del inicio de sesión de un dispositivo sigue la fecha de vencimiento de la cuenta; se desconecta a los pocos minutos de caducar, y basta con volver a iniciar sesión después de renovar. El número de dispositivos en línea a la vez depende del plan (Individual 2, Familiar 4, Empresa 8), y el cupo se comparte con los demás métodos de conexión; cuando los dispositivos en línea a la vez superan el límite del plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
+La validez del inicio de sesión de un dispositivo sigue la fecha de vencimiento de la cuenta; se desconecta a los pocos minutos de caducar, y basta con volver a iniciar sesión después de renovar. El número de dispositivos en línea a la vez depende del plan (Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64), y el cupo se comparte con los demás métodos de conexión; cuando los dispositivos en línea a la vez superan el límite del plan, puedes subir temporalmente de tipo de cuenta (el tiempo restante se convierte a valor equivalente según el precio) y volver cuando termines.
 
 Para los pasos de instalación e inicio de sesión, consulta [Guía de clientes 05](../client/05-tailscale-private-network.md).
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-03) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-03) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=network-03) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=network-03) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

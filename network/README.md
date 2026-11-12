@@ -13,7 +13,7 @@ Una explicación clara de los **principios** del acceso transfronterizo, de **c�
 | [05 · Cómo detectar programas VPN peligrosos](05-risky-vpn-apps.md) |
 | [06 · Por qué a veces va rápido y a veces lento](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Qué problemas resuelve la línea y cuáles necesitan otra solución](07-when-you-do-not-need-us.md) |
-| [08 · Elegir entre los tres planes, renovación y pago](08-account-tiers-and-payment.md) |
+| [08 · Elegir plan, renovación y pago](08-account-tiers-and-payment.md) |
 | [09 · Qué hacer cuando te quedas sin conexiones de dispositivo](09-not-enough-devices.md) |
 
 [← Volver al índice](../README.md)

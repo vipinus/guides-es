@@ -2,7 +2,7 @@
 
 > Versión web (más extensa): https://www.leotun.com/es/guides/router?utm_source=github&utm_content=router-07
 
-El router resuelve el problema de «demasiados dispositivos, y algunos no admiten un cliente»: la VPN se configura una sola vez en el router, y la tele, la consola, el altavoz inteligente y el móvil de los mayores de la familia pasan por ella automáticamente, sin instalar nada. Solo hace falta un router en el que se pueda instalar firmware y diez minutos para instalarlo. **Las cuentas Individual, Familiar y Empresa pueden usar router.**
+El router resuelve el problema de «demasiados dispositivos, y algunos no admiten un cliente»: la VPN se configura una sola vez en el router, y la tele, la consola, el altavoz inteligente y el móvil de los mayores de la familia pasan por ella automáticamente, sin instalar nada. Solo hace falta un router en el que se pueda instalar firmware y diez minutos para instalarlo. **Los seis planes de pago pueden usar router, y cada uno permite vincular de 1 a 6.**
 
 ## Cuándo te conviene y cuándo no
 
@@ -26,12 +26,12 @@ Por cualquiera de los dos caminos, el firmware actualiza sus componentes solo, s
 
 | Modelo | Tipo | Precio | Incluye | Qué es | Ideal para |
 |---|---|---|---|---|---|
-| **GL-MT3000** | De viaje | 250 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
-| GL-AXT1800 | De viaje | 300 USD | 2 años del plan Individual | Wi‑Fi 6 de doble banda, un puerto WAN gigabit y dos LAN gigabit, más o menos del tamaño del GL-MT3000 | Fuera de casa, cuando además del wifi necesitas conectar dos equipos por cable a la vez, como un portátil y un TV box |
-| GL-MT3600BE | De viaje | 350 USD | 2 años del plan Individual | Wi‑Fi 7 de doble banda con dos puertos de 2,5G, más o menos del tamaño del GL-MT3000 | Móviles y portátiles que ya tienen Wi‑Fi 7, cuando quieres un inalámbrico más rápido en algo que todavía se pueda llevar |
-| GL-MT6000 | De sobremesa | 400 USD | 2 años del plan Individual | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
+| **GL-MT3000** | De viaje | 250 USD | 2 años del plan Básico | Wi‑Fi 6 de doble banda con puerto de 2,5G, algo más grande que la palma de la mano | Router principal de un hogar pequeño (tele, TV box, varios móviles y ordenadores) y lo bastante pequeño para llevarlo en la mochila |
+| GL-AXT1800 | De viaje | 300 USD | 2 años del plan Básico | Wi‑Fi 6 de doble banda, un puerto WAN gigabit y dos LAN gigabit, más o menos del tamaño del GL-MT3000 | Fuera de casa, cuando además del wifi necesitas conectar dos equipos por cable a la vez, como un portátil y un TV box |
+| GL-MT3600BE | De viaje | 350 USD | 2 años del plan Básico | Wi‑Fi 7 de doble banda con dos puertos de 2,5G, más o menos del tamaño del GL-MT3000 | Móviles y portátiles que ya tienen Wi‑Fi 7, cuando quieres un inalámbrico más rápido en algo que todavía se pueda llevar |
+| GL-MT6000 | De sobremesa | 400 USD | 2 años del plan Básico | Dos puertos de 2,5G más cuatro gigabit, antenas externas, la mayor potencia de procesamiento | Casas grandes, muchos dispositivos (una docena o más), banda ancha de más de un gigabit, 4K y consolas, o una oficina pequeña. Se queda fijo como único router |
 
-Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empresa la cuarta parte, el mismo valor en todos los casos. Envío gratis a todo el mundo, normalmente en 3–14 días. Garantía de seis meses; los routers no se reembolsan.
+Los meses incluidos son del plan Básico; en Estándar son 12 meses, en Pro 6, en Élite 3 y en Empresa 1, y Supremo no incluye tiempo extra; el mismo valor en todos los casos. Envío gratis a todo el mundo, normalmente en 3–14 días. Garantía de seis meses; los routers no se reembolsan.
 
 ### Elección rápida según tu caso
 
@@ -46,7 +46,7 @@ Los meses incluidos son del plan Individual; en Familiar son la mitad y en Empre
 
 - **Un equipo, dos papeles.** Tiene potencia de sobra para ser el router principal de un hogar pequeño y es lo bastante pequeño para viajar con él. Es el único de los cuatro que hace las dos cosas.
 - **No se quedará anticuado pronto.** El Wi‑Fi 6 y el puerto de 2,5G dejan margen frente a la mayoría de las bandas anchas domésticas.
-- **Es el más barato.** 250 USD con 2 años de servicio del plan Individual: el más barato de los cuatro, 50 USD menos que el GL-AXT1800, y aun así con puerto de 2,5G.
+- **Es el más barato.** 250 USD con 2 años de servicio del plan Básico: el más barato de los cuatro, 50 USD menos que el GL-AXT1800, y aun así con puerto de 2,5G.
 - **Es el que mejor conocemos.** Nuestro equipo de pruebas es este modelo, el firmware nuevo se comprueba primero en él y el [vídeo tutorial de instalación](02-flash-firmware-yourself.md) lo usa. Si tienes un problema, tenemos el mismo equipo sobre la mesa para comparar.
 
 Cuándo no elegirlo: para uno de viaje con dos puertos de cable, el GL-AXT1800; para dispositivos con Wi‑Fi 7, el GL-MT3600BE; para una casa grande, muchos dispositivos o banda ancha de más de un gigabit, ve directamente al GL-MT6000.
@@ -61,11 +61,11 @@ Cuándo no elegirlo: para uno de viaje con dos puertos de cable, el GL-AXT1800; 
 
 ## Preguntas frecuentes
 
-**¿El router cuenta como un dispositivo?** Ocupa una plaza de la cuenta (según el plan: Individual 2, Familiar 4, Empresa 8 dispositivos en línea a la vez), y los dispositivos que hay detrás no cuentan por separado.
+**¿El router cuenta como un dispositivo?** Cada uno ocupa una plaza de la cuenta (según el plan: Básico 2, Estándar 4, Pro 8, Élite 16, Empresa 32, Supremo 64 dispositivos en línea a la vez), y los dispositivos que hay detrás no cuentan por separado.
 
 **¿Sirve para ver vídeo de China estando en el extranjero?** Sí, elige la región de China para la línea. El router mete toda la red local en la VPN, y el IPv6 y el DNS de los dispositivos no pueden salir por fuera, así que los avisos de «restricción por derechos de autor» aparecen menos que cuando un móvil se conecta por su cuenta. Consulta la [06](06-unlock-chinese-video-with-router.md).
 
 **¿El firmware tiene una puerta trasera?** Se compila a partir de OpenWrt, añadiendo solo el componente que se conecta a la VPN y las reglas de enrutamiento dividido; la VPN solo registra la duración de la conexión y el tráfico total para la facturación, y no registra lo que visitas.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=router-07) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=router-07) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin

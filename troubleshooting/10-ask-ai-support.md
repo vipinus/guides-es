@@ -17,7 +17,7 @@ El agente de soporte de IA «Bob Esponja» (SpongeBob) responde las 24 horas en 
 |---|---|
 | No conecta | Windows 11, Cisco conectando a Japón, se queda cargando y al final dice que se agotó el tiempo de conexión; con Corea igual; la banda ancha de casa es de China Unicom |
 | Va muy lento | iPhone con Hiddify, Singapur elegido, las páginas cargan pero el vídeo se queda cargando, sobre todo a partir de las 21:00 |
-| ¿Cómo lo hago? | Acabo de comprar el plan Familiar y quiero que la tele Xiaomi de casa también pueda usarlo. ¿Hay alguna forma? |
+| ¿Cómo lo hago? | Acabo de comprar el plan Estándar y quiero que la tele Xiaomi de casa también pueda usarlo. ¿Hay alguna forma? |
 | Preguntar por la renovación, el cambio de región y el router en un solo mensaje | Pregunta una cosa cada vez, y la siguiente cuando esté resuelta |
 
 ## Cómo conseguir que responda en cada uno de los tres grupos
@@ -51,4 +51,4 @@ Las direcciones de conexión de la VPN se sacan de la web: después de iniciar s
 - El soporte nunca te escribirá en privado para pedirte una contraseña, un código de verificación o un pago, y nunca te pedirá por iniciativa propia que instales un programa de control remoto.
 
 ---
-Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Individual), una promoción sin fecha de fin
+Elaborado por el equipo de [LeoTun](https://www.leotun.com/es?utm_source=github&utm_content=troubleshooting-10) · ¿Dudas? Mira la [página de contacto](https://www.leotun.com/es/contact?utm_source=github&utm_content=troubleshooting-10) (allí están los grupos, el correo y el soporte) · Regístrate y pruébalo gratis 30 minutos; invita a un amigo que pague y cada uno recibirá 15 puntos (unos 15 días del plan Básico), una promoción sin fecha de fin
